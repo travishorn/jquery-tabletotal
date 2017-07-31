@@ -1,6 +1,6 @@
 {
   "name": "jquery-tabletotal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically add total row and/or total column to table.",
   "main": "jquery.tableTotal.js",
   "scripts": {
