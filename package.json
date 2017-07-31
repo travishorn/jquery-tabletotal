@@ -1,0 +1,15 @@
+{
+  "name": "jquery-tabletotal",
+  "version": "1.0.0",
+  "description": "Automatically add total row and/or total column to table.",
+  "main": "jquery.tableTotal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Travis Horn (https://travishorn.com)",
+  "license": "MIT"
+}
