@@ -56,3 +56,7 @@ If `true`, adds a row to your table with column totals.
 Default: `true`
 
 If `true`, makes all total numbers bold.
+
+## Live Example
+
+You can find a live example of this plugin in [this pen](https://codepen.io/travishorn/pen/Mvyyzz).
